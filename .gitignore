@@ -1,6 +1,5 @@
 lt
 /.vs
-/*.vcxproj
 /*.user
 /*.swp
 /x64/*
