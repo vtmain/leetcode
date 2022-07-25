@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{cd6b18d5-60f3-4eec-8c44-1980fe18f71a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\algorithm">
+      <UniqueIdentifier>{c988aaa3-b284-4a7e-8bf9-7496bcd40074}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\algorithm\alg.h">
+      <Filter>src\algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\algorithm\a1.h">
+      <Filter>src\algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\algorithm\alg_base.h">
+      <Filter>src\algorithm</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="makefile" />
+    <None Include=".gitignore" />
+  </ItemGroup>
+</Project>
