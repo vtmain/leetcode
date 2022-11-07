@@ -17,10 +17,13 @@
     <ClInclude Include="src\algorithm\alg.h">
       <Filter>src\algorithm</Filter>
     </ClInclude>
-    <ClInclude Include="src\algorithm\a1.h">
+    <ClInclude Include="src\algorithm\alg_base.h">
       <Filter>src\algorithm</Filter>
     </ClInclude>
-    <ClInclude Include="src\algorithm\alg_base.h">
+    <ClInclude Include="src\algorithm\a_1.h">
+      <Filter>src\algorithm</Filter>
+    </ClInclude>
+    <ClInclude Include="src\algorithm\a_46.h">
       <Filter>src\algorithm</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,7 +1,7 @@
 #pragma once
 #include "alg_base.h"
 
-class a1 : public alg_base
+class a_1 : public alg_base
 {
 public:
 	virtual void handle()

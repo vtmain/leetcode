@@ -130,9 +130,10 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\algorithm\a1.h" />
     <ClInclude Include="src\algorithm\alg.h" />
     <ClInclude Include="src\algorithm\alg_base.h" />
+    <ClInclude Include="src\algorithm\a_1.h" />
+    <ClInclude Include="src\algorithm\a_46.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
